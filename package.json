@@ -1,6 +1,6 @@
 {
   "name": "libchinaidcard",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "中国居民身份证解析库",
   "main": "index.js",
   "scripts": {
