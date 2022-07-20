@@ -2,9 +2,9 @@
   "name": "libchinaidcard",
   "version": "1.0.2",
   "description": "中国居民身份证解析库",
-  "main": "index.js",
+  "main": "utils.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node utils.js"
   },
   "keywords": ["居民","身份证","中国","大陆","中华人民共和国","china","chinese","parse","check","test","解析","查询","信息","属地","归属地","校验码","真实性","identity","id","card"],
   "author": "t1denbro",
